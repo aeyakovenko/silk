@@ -119,7 +119,7 @@
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-jest": "22.19.0",
+    "eslint-plugin-jest": "24.2.1",
     "eslint-plugin-prettier": "^3.0.0",
     "flow-bin": "0.130.0",
     "flow-typed": "3.2.1",
